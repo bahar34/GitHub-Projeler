@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\xmlDeneme\xmlDeneme\bin\Debug\xmlDeneme.exe.config
+c:\users\user\documents\visual studio 2015\Projects\xmlDeneme\xmlDeneme\bin\Debug\xmlDeneme.exe
+c:\users\user\documents\visual studio 2015\Projects\xmlDeneme\xmlDeneme\bin\Debug\xmlDeneme.pdb
+c:\users\user\documents\visual studio 2015\Projects\xmlDeneme\xmlDeneme\obj\Debug\xmlDeneme.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\xmlDeneme\xmlDeneme\obj\Debug\xmlDeneme.exe
+c:\users\user\documents\visual studio 2015\Projects\xmlDeneme\xmlDeneme\obj\Debug\xmlDeneme.pdb
